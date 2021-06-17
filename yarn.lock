@@ -90,7 +90,7 @@
     through2 "^2.0.3"
     vinyl-sourcemaps-apply "^0.2.1"
 
-"@types/angular-animate@^1.5.10", "@types/angular-animate@^1.8.1":
+"@types/angular-animate@^1.5.10":
   version "1.5.10"
   resolved "https://registry.yarnpkg.com/@types/angular-animate/-/angular-animate-1.5.10.tgz#b94b45358c61163f1478768e8b081c76439c515f"
   integrity sha512-MnYYvTHAPUbtT6gqwrnl6k3a03A5BlNz1nVlwVGxyS+MeWCX4DC14SJ/pgJUa8wj+J04wZ2prMxFsOfp6cyjjQ==
@@ -4814,9 +4814,9 @@ posix-character-classes@^0.1.0:
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
 postcss@^7.0.16:
-  version "7.0.35"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.35.tgz#d2be00b998f7f211d8a276974079f2e92b970e24"
-  integrity sha512-3QT8bBJeX/S5zKTTjTCIjRF3If4avAT6kqxcASlTWEtAFCb9NH0OUxNDfgZSWdP5fJnBYCMEWkIFfWeugjzYMg==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
